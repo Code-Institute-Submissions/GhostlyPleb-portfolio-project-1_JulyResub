@@ -40,10 +40,6 @@ body {
     line-height: 75px;
 }
 
-#menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
-}
-
 #tip1-image {
-    background: url(../assets/images/tip1-tidy-cables.jpg) no-repeat center center;
+    background: url(../assets/images/tip1-tidy-cables.jpg) no-repeat 0 0;
 }
