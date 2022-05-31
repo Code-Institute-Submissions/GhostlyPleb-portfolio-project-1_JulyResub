@@ -86,6 +86,7 @@ The idea is that the user will be able to come back daily to get new and excitin
 ## Credits 
 
 I would like to thank both coffee and stack overflow for the aid they provided during this project!
+I also referenced the form code that was used in the runner mock project.
 
 ## Media
 
