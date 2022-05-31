@@ -1,9 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Share+Tech&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Share+Tech&display=swap');
 
+header {
+    background-color: #ffffff;
+    background-image: url(../assets/images/header-background.jpg);
+}
+
 #logo {
     float: left;
-    font-size: 300%;
+    font-size: 400%;
     margin-left: 40px;
 }
 
@@ -11,21 +16,28 @@ h1, h2 {
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #3a3a3a;
+    color: #ffffff;
 }
 
 body {
     font-family: 'Share Tech', sans-serif;
     font-weight: 400;
-    color: #3a3a3a;
+    color: #ffffff;
+    background-color: #3a3a3a;
+    
 }
 
-#tech-tips {
-    padding-top: 150px;
+#menu a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #ffffff;
 }
 
 #menu {
-    font-size: 110%;
+    font-size: 150%;
     letter-spacing: 2px;
 }
 
@@ -40,6 +52,48 @@ body {
     line-height: 75px;
 }
 
-#tip1-image {
-    background: url(../assets/images/tip1-tidy-cables.jpg) no-repeat 0 0;
+.tip1, .tip2,.tip3,.tip4,.tip5,.tip6 {
+    column-count: 2;
+    padding-right: 400px;
+}
+
+#tip-image {
+    max-width: 300px;
+    max-height: 300px;
+    padding-left: 300px;
+    padding-top: 50px;
+}
+
+#tech-tips h2 {
+    padding-right: 300px;
+    padding-top: 100px;
+}
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #ffffff;
+}
+
+footer div {
+    background-color: #6d6c6c;
+}
+
+header div {
+    padding-top: -100px;
+    height: 175px;
+    background-color: #6d6c6c;
 }
