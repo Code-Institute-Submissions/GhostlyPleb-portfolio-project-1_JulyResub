@@ -20,44 +20,74 @@ The idea is that the user will be able to come back daily to get new and excitin
 
   - The header shows the name of the website on the left hand side and on the right hand size is the button for both the main home page and subscribe page
 
-![Life Hacks](assets/images/)
+![Life Hacks](assets/images/tips-showcase.png)
 
 - __Life Hacks__
 
   - The life hacks themselves are displayed with the image/example of the hack itself and then a description of the hack/tip underneath the image
 
-![Subscribe](assets/images/)
+![Subscribe](assets/images/subscribe-page.png)
 
 - __Subscribe Page__
 
-  -
-
-![Footer](assets/images/)
-
-- __The Footer__ 
-
+  - The subscribe page allows the user to subscribe for future updates and email notifications for when new tips/hacks have been released, it asks the user for a first name and last name and email address.
   
 
-![About](assets/images/)
+![About/Social Media Links](assets/images/social-links.png)
 
-- 
+- The about section at the bottom of the page simply has the links to all major social media platforms, click on each icon will direct the user to the corresponding website.
 
 
 ## Features Left to Implement
 
-- A better send button
--Actions in the form element, right now it's just static.
+- On the subscribe page, I never got the chance to implement the a 404 error page once the user completes the form.
+- Would like to redesign the layout of the main page, I have learned alot from just doing this assingment and if not for the time restraint then I would have choosen to do things differently.
 
 ## Testing 
 
+- I tested the webpage in multiple differnet website e.g chrome, firefox and edge. They all worked.
+- All the content is easy to ready, which will be indicated in my light house score.
+- The form is working correctly aswell apart from it not bringing the user to the 404 error page once they try to submit.
+- Both the Lifehacks and Subscribe links bring the user to the corresponding page.
 
-### Validator Testing 
+## Bugs
+
+### Solved Bugs
+
+- One bug I encountered was making sure that all my images were aligned in each mobile device, I had wrote some CSS that contradicted what I was trying to achieve by not using the correct selectors and also closing sections in the incorrect places, after noticing this and correcting it did I achieve the layout I wanted.
+
+
+## Validator Testing 
+
+- HTML: no errors were returned when passing through WS3 validator
+
+- CSS: no errors were found when passing through Jigsaw validator
+
+- ACCESSIBILITY: All the colors and fonts that were choosen are easy to ready and accessible by running it through lighthouse in devtools, as shown in the images below
+
+- Images of all the tests
+
+![test1](assets/images/validate test.png)
+
+![test2](assets/images/nu html checker.png)
+
+![test3](assets/images/lighthouse-report.png)
+
 
 
 ## Deployment
 
+- The was deployed to GitHub pages. The steps to deply are as follows:
+- In the Github repository, navigate to the settings tab.
+- From the source section drop-down menu, select the master branch.
+- Once the master branch has been selected, the page provided the link the completed website
+- Here is the live link: https://ghostlypleb.github.io/portfolio-project-1/
+
 ## Credits 
 
-- The icons in the footer were taken from the website Font Awesome
+I would like to thank both coffee and stack overflow for the aid they provided during this project!
 
-### Media
+## Media
+
+- The icons in the footer were taken from the website Font Awesome
+- All the images were collected from google images.
