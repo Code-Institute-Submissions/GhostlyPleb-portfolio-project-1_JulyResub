@@ -18,13 +18,13 @@ The idea is that the user will be able to come back daily to get new and excitin
 
 - __The Header__
 
-  - 
+  - The header shows the name of the website on the left hand side and on the right hand size is the button for both the main home page and subscribe page
 
 ![Life Hacks](assets/images/)
 
 - __Life Hacks__
 
-  -
+  - The life hacks themselves are displayed with the image/example of the hack itself and then a description of the hack/tip underneath the image
 
 ![Subscribe](assets/images/)
 
