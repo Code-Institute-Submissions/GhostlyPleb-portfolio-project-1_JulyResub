@@ -4,7 +4,7 @@ Your Daily Dose of Life Hacks is a website designed to aid people in their own d
 
 The idea is that the user will be able to come back daily to get new and exciting tips that may make the users day that much easier.
 
-![Responsice Mockup](assets/images/am-i-responsive.jpg)
+![Responsice Mockup](assets/images/am-i-responsive-mock-up.jpg)
 
 ## Features 
 
