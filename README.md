@@ -74,11 +74,11 @@ The idea is that the user will be able to come back daily to get new and excitin
 
 - Images of all the tests
 
-![test1](assets/images/html-checker.png)
+![test1](assets/images/html-check.png)
 
-![test2](assets/images/validate-test.png)
+![test2](assets/images/css_check.png)
 
-![test3](assets/images/lighthouse-report.png)
+![test3](assets/images/lighthouse_report.png)
 
 
 
