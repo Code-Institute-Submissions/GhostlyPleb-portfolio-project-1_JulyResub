@@ -4,23 +4,24 @@ Your Daily Dose of Life Hacks is a website designed to aid people in their own d
 
 The idea is that the user will be able to come back daily to get new and exciting tips that may make the users day that much easier.
 
-![Responsice Mockup](assets/images/test-look.png)
+![Mockup](assets/images/mockup.png)
 
 ## Features 
 
 - __Navigation__
 
   - Featured at the top of the page shows the name of the website "YOUR DAILY DOSE OF LIFE HACKS".
-  - To the left the "Lifehacks" Home button and the "Subscribe" button to bring the user to the newsletter page.
+  - To the right of the "Lifehacks" Home button and the "Subscribe" button to bring the user to the newsletter page.
+  - To the right of the "Subscribe" button is the contact button which enable to the user to leave a message/get in contact.
   - The page itself is in a font that is easy to read and contrasts well with the background of the website.
 
-![Header](assets/images/header-image.png) 
+![Header](assets/images/header.png) 
 
 - __The Header__
 
   - The header shows the name of the website on the left hand side and on the right hand size is the button for both the main home page and subscribe page
 
-![Life Hacks](assets/images/tips-showcase.png)
+![Life Hacks](assets/images/tips.png)
 
 - __Life Hacks__
 
@@ -31,9 +32,15 @@ The idea is that the user will be able to come back daily to get new and excitin
 - __Subscribe Page__
 
   - The subscribe page allows the user to subscribe for future updates and email notifications for when new tips/hacks have been released, it asks the user for a first name and last name and email address.
+
+![Contact](assets/images/contact_page.png)
+
+- __Contact Page__
+
+  - TThe contact page allows the user to be able to leave a message or give some feedback on the website.
   
 
-![About/Social Media Links](assets/images/social-links.png)
+![About/Social Media Links](assets/images/social_links.png)
 
 - The about section at the bottom of the page simply has the links to all major social media platforms, click on each icon will direct the user to the corresponding website.
 
