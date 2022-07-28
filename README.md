@@ -27,7 +27,7 @@ The idea is that the user will be able to come back daily to get new and excitin
 
   - The life hacks themselves are displayed with the image/example of the hack itself and then a description of the hack/tip underneath the image
 
-![Subscribe](assets/images/subscribe-page.png)
+![Subscribe](assets/images/subscribe_page.png)
 
 - __Subscribe Page__
 
@@ -74,7 +74,7 @@ The idea is that the user will be able to come back daily to get new and excitin
 
 - Images of all the tests
 
-![test1](assets/images/html-check.png)
+![test1](assets/images/html_check.png)
 
 ![test2](assets/images/css_check.png)
 
