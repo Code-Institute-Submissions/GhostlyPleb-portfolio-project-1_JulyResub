@@ -22,8 +22,7 @@ body {
     font-family: 'Share Tech', sans-serif;
     font-weight: 400;
     color: #ffffff;
-    background-color: #3a3a3a;
-    
+    background-color: #3a3a3a; 
 }
 
 #menu a {
@@ -94,17 +93,14 @@ header div {
     background-color: #6d6c6c;
 }
 
+/*subscribe and contact form CSS*/
+
 #newsletter-signup {
     text-transform: uppercase;
     text-align: center;
     padding-top: 50px;
     font-size: 50px;
 } 
-
-.signup-form {
-    padding-left: 20px;
-    display: inline;
-}
 
 .form-section {
     clear: left;
@@ -114,19 +110,34 @@ header div {
 }
 
 .signup-form {
+    width: 100px;
     margin: 150px 10% 0 0;
     color: #fff;
-    background-color: rgba(60, 60, 60, 0.6);
-    max-width: 400px;
-    position: absolute;
     left: 10%;
     padding: 20px;
+    padding-left: 20px;
+    display:inline;
 }
 
-.signup-form > h2 {
-    color: #fafafa;
-    margin-bottom: 20px;
+#fname, #lname, #email, #message, #button {
+    background-color: #fafafa;  
+    color: black;
+    display: block;
+    padding: 20px;
+    padding-left: 20px;
+    width: 400px;
+    margin: auto;  
 }
+
+#contact, #subscribe {
+    
+    text-align: center;
+}
+
+#button {
+    margin-top: 10px;
+}
+
 
 .text-input {
     background: transparent;
@@ -138,11 +149,8 @@ header div {
     border-radius: 2px;
 }
 
-.text-input:hover {
-    border-color: #f16c6b;
-}
-
 .join-button {
+    margin: auto;
     margin-top: 20px;
     border-radius: 2px;
     padding: 15px 32px 15px 32px;
@@ -151,6 +159,10 @@ header div {
     background-color: #f16c6b;
     color: #fafafa;
     display: block;
+}
+
+.text-input:hover {
+    border-color: #f16c6b;
 }
 
 .join-button:hover {
@@ -270,8 +282,14 @@ hr {
     }
 
     #menu li {
-        display: inline-block;
-        padding-right: 20px;
+        text-align: center;
+        font-size: 10px;
+        margin-right: 50px;
+    }
+
+    h1 {
+        font-size: 20px;
+        text-align: center;
         margin: 0 auto;
     }
 
@@ -279,6 +297,14 @@ hr {
         max-width: 340px;
         width: 100%;
         margin: 0 auto;
+    }
+
+    .signup-form {
+        width: 10px;
+    }
+
+    #fname, #lname, #email, #message, #button {
+        width: 300px;  
     }
  }
 
