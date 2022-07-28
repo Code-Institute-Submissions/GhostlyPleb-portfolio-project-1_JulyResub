@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Share+Tech&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Share+Tech&display=swap');
 
+
+/*Basic CSS for the generic/broad parts of the site */
 header {
     background-color: #ffffff;
 }
@@ -94,7 +96,6 @@ header div {
 }
 
 /*subscribe and contact form CSS*/
-
 #newsletter-signup {
     text-transform: uppercase;
     text-align: center;
@@ -180,6 +181,8 @@ hr {
     width: 100%;
 }
 
+
+/*Media query CSS for devices with a max width of 500px*/
  @media only screen and (max-width : 500px) {
 
     .container {
@@ -235,8 +238,13 @@ hr {
         width: 100%;
         margin: 0 auto;
     }
+
+    #fname, #lname, #email, #message, #button {
+        width: 200px;  
+    }
  }
 
+/*Media query CSS for devices with a max width of 960px*/
  @media only screen and (max-width : 960px) {
 
     .container {
@@ -308,6 +316,7 @@ hr {
     }
  }
 
+ /*Media query CSS for devices with a max width of 1280px*/
  @media only screen and (max-width : 1280px) {
     .container {
         max-width: 320px;
@@ -362,5 +371,9 @@ hr {
         max-width: 340px;
         width: 100%;
         margin: 0 auto;
+    }
+
+    #fname, #lname, #email, #message, #button {
+        width: 200px;  
     }
  }
