@@ -11,8 +11,8 @@ The idea is that the user will be able to come back daily to get new and excitin
 - __Navigation__
 
   - Featured at the top of the page shows the name of the website "YOUR DAILY DOSE OF LIFE HACKS".
-  - To the right of the "Lifehacks" Home button and the "Subscribe" button to bring the user to the newsletter page.
-  - To the right of the "Subscribe" button is the contact button which enable to the user to leave a message/get in contact.
+  - To the right of the "Lifehacks" Home button is the "Subscribe" button to bring the user to the newsletter page.
+  - To the right of the "Subscribe" button is the "contact" button which enable to the user to leave a message/get in contact.
   - The page itself is in a font that is easy to read and contrasts well with the background of the website.
 
 ![Header](assets/images/header.png) 
@@ -44,12 +44,6 @@ The idea is that the user will be able to come back daily to get new and excitin
 
 - The about section at the bottom of the page simply has the links to all major social media platforms, click on each icon will direct the user to the corresponding website.
 
-
-## Features Left to Implement
-
-- On the subscribe page, I never got the chance to implement the a 404 error page once the user completes the form.
-- Would like to redesign the layout of the main page, I have learned alot from just doing this assingment and if not for the time restraint then I would have choosen to do things differently.
-
 ## Testing 
 
 - I tested the webpage in multiple differnet website e.g chrome, firefox and edge. They all worked.
@@ -58,6 +52,8 @@ The idea is that the user will be able to come back daily to get new and excitin
 - Both the Lifehacks and Subscribe links bring the user to the corresponding page.
 
 ## Bugs
+
+- had issues with aliignment of text in the media querys, seem to be fine now.
 
 ### Solved Bugs
 
