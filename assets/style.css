@@ -225,9 +225,9 @@ hr {
     }
 
     #menu li {
-        text-align: center;
-        font-size: 10px;
-        margin-right: 50px;
+        display: inline-block;
+        padding-right: 20px;
+        margin: 0 auto;
     }
 
     #newsletter-signup {
@@ -304,11 +304,11 @@ hr {
     }
 
     #fname, #lname, #email, #message, #button {
-        width: 300px;  
+        width: 200px;  
     }
  }
 
- @media only screen and (max-width : 1200px) {
+ @media only screen and (max-width : 1280px) {
     .container {
         max-width: 320px;
         width: 100%;
@@ -352,9 +352,10 @@ hr {
     }
 
     #menu li {
-        text-align: center;
+        display: inline-block;
+        padding-right: 20px;
+        margin: 0 auto;
         font-size: 10px;
-        margin-right: 50px;
     }
 
     #newsletter-signup {
